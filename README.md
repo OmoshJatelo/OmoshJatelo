@@ -45,7 +45,4 @@ I highlight a few projects below — click to explore the code and demos.
 
 ---
 
-If you want, I can:
-- Replace the placeholder portfolio URL with your live site URL.
-- Add a profile image, tech icons, or GitHub-readme-stats badges.
-- Create/update READMEs for the featured repos (add screenshots, quickstarts, and badges).
+
