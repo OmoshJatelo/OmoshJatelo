@@ -5,7 +5,7 @@ Computer Science student at JKUAT | Software Developer | Building practical appl
 - 🔭 I’m currently working on: building practical apps and learning more about scalable backend systems and mobile development.
 - 🌱 I’m learning: advanced Android development, production-ready Node.js services, and applied machine learning.
 - 💬 Ask me about: Java, JavaScript, Node.js, Android, and ML prototypes.
-- 📫 How to reach me: omondi.calvince@example.com • [LinkedIn](https://www.linkedin.com/in/omondi-calvince-583936349/) • [Portfolio](https://your-deployed-portfolio.example)
+- 📫 How to reach me: omondi.calvince@example.com • [LinkedIn](https://www.linkedin.com/in/omondi-calvince-583936349/) • [Portfolio](https://calvince-omondi.netlify.app/)
 
 ---
 
@@ -39,9 +39,9 @@ I highlight a few projects below — click to explore the code and demos.
 ## Contact & links
 
 - GitHub: https://github.com/OmoshJatelo
-- Portfolio: https://your-deployed-portfolio.example
+- Portfolio: [https://your-deployed-portfolio.example](https://calvince-omondi.netlify.app/)
 - LinkedIn: https://www.linkedin.com/in/omondi-calvince-583936349/
-- Email: omondi.calvince@example.com
+- Email: calvinceomondi913@gmail.com
 
 ---
 
