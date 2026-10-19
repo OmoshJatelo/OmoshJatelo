@@ -2,10 +2,10 @@
 
 Computer Science student at JKUAT | Software Developer | Building practical applications with Java, JavaScript, Node.js, MongoDB, and Python.
 
-- 🔭 I’m currently working on: building practical apps and learning more about scalable backend systems and mobile development.
-- 🌱 I’m learning: advanced Android development, production-ready Node.js services, and applied machine learning.
-- 💬 Ask me about: Java, JavaScript, Node.js, Android, and ML prototypes.
-- 📫 How to reach me: calvinceomondi913@gmail.com • [LinkedIn](https://www.linkedin.com/in/omondi-calvince-583936349/) • [Portfolio](https://calvince-omondi.netlify.app/)
+-  I’m currently working on: building practical apps and learning more about scalable backend systems and mobile development.
+-  I’m learning: advanced Android development, production-ready Node.js services, and applied machine learning.
+-  Ask me about: Java, JavaScript, Node.js, Android, and ML prototypes.
+-  How to reach me: calvinceomondi913@gmail.com • [LinkedIn](https://www.linkedin.com/in/omondi-calvince-583936349/) • [Portfolio](https://calvince-omondi.netlify.app/)
 
 ---
 
