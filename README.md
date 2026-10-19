@@ -39,7 +39,7 @@ I highlight a few projects below — click to explore the code and demos.
 ## Contact & links
 
 - GitHub: https://github.com/OmoshJatelo
-- Portfolio: [https://your-deployed-portfolio.example](https://calvince-omondi.netlify.app/)
+- Portfolio: [https://calvince-omondi.netlify.app/](https://calvince-omondi.netlify.app/)
 - LinkedIn: https://www.linkedin.com/in/omondi-calvince-583936349/
 - Email: calvinceomondi913@gmail.com
 
